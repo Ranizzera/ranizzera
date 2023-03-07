@@ -13,7 +13,7 @@ Bem vindo(a) ao perfil do ranizzera
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Me siga nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/ranizzera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
